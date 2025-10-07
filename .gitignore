@@ -1,0 +1,145 @@
+## Ignore Visual Studio temporary files, build results, and personal settings
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio cache/options directory
+.vs/
+
+# Rider and VS Code directories
+.idea/
+.vscode/
+
+# Generated files
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.pch
+*.pdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.vspscc
+*_i.asm
+*_p.asm
+
+# BenchmarkDotNet artifacts
+BenchmarkDotNet.Artifacts/
+
+# .NET Core build artifacts
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# StyleCop
+StyleCopReport.xml
+
+# Files built by Visual Studio
+*.dbmdl
+*.bak
+*.backup
+*.BLOB
+*.cachefile
+*.db
+*.jfm
+*.opendb
+*.ldf
+*.mdf
+*.ndf
+*.ncb
+*.sdf
+*.opensdf
+*.vssscc
+
+# T4 code generation
+*.TextTemplatingPreprocessor
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish directories
+publish/
+wwwroot/
+
+# NuGet
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+*.nuget.props
+*.nuget.targets
+
+# Azure build output
+csx/
+*.build.csdef
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# JetBrains Rider files
+.idea/
+
+# VS for Mac
+*.pidb
+*.userprefs
+
+# DotCover
+*.dotCover
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Temporary files
+~$*
+*.tmp
+
+# Local history
+.history/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# Others
+node_modules/
+bower_components/
+
+# End of file
